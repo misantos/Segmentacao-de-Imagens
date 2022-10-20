@@ -1,0 +1,8 @@
+Versão do python: 3.9.1
+Para a execução do programa: python main.py
+
+Bibliotecas: OpenCV
+	pip install opencv-python
+
+O programa foi desenvolvido na IDE VSCode, contudo pode executar no terminal.
+
