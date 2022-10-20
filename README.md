@@ -1,2 +1,3 @@
-# Segmentacao-de-Imagens
-Algoritmo para segmentação e descrição de imagens por meio da técnica Momentos Invariantes.
+# Segmentação e extração de características em imagens
+
+Algoritmo desenvolvido em Python e OpenCV.
